@@ -1,6 +1,6 @@
 # AltiVario
 
-![AltiVario](/images/view2.jpeg)
+![AltiVario](/images/view2.jpg)
 
 AltiVario je vario na paragliding. meri a zobrazuje rychlost stoupani/klesani, vysku a posila data pres BT do aplikace XC track na mobilnim telefonu
 
@@ -9,6 +9,7 @@ AltiVario je vario na paragliding. meri a zobrazuje rychlost stoupani/klesani, v
 Cilem hry bylo mit rychle a presne zalozni vario s moznosti exportu zivych dat do aplikace XC track v mobilnim telefonu.
 cela akce byla zaroven test mych moznosti a schopnosti zajistit kompletni short-run vyrobu jak HW tak SW. Vyrobil 
 jsem celkem deset kusu, ktere jsem vetsinou rozdal znamym. AltiVario opravdu letalo a bylo prakticky pouzitelne.
+![AltiVario](/images/set1.jpg)
 
 ### HW
 
@@ -21,3 +22,4 @@ Vyvoj byl uspesny, vyroba byla rozumne automatizovana, finalni cena jednoho kusu
 ### SW
 
 Popis SW a celkove ovladani pristore je popsano v Vario.md
+![AltiVario](/images/view1.jpg)
